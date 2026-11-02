@@ -49,6 +49,7 @@ Taste guide (user's own numbers, approx):
 - Planetarium events: 6, unless for children.
 - Comedy nights: 4. Stand-ups: 1. Family/children's events: 1.
 - Vernissages / exhibition openings: baseline ~4; bonus (+2 to +4) if leftist, social-critical, feminist, decolonial, ecological or otherwise politically engaged art. Museums added as sources: Muzeum Narodowe w Warszawie, Muzeum Sztuki Nowoczesnej (2026-11-02).
+- Nowa Miodowa (added 2026-11-02): classical music, jazz and soul there = baseline 7; anything else there ~5. Booking still matters (+1 if tickets are guaranteed/available).
 - Theatre: paused (low). Political parties: avoid. Excluded venues: Odessa, Pożyteczna.
 
 ## Report settings
