@@ -6,37 +6,42 @@ Add new sources when a run discovers good ones (tell the user in the report). Ne
 
 | Source | URL | Type | Status | Last checked | Notes |
 |---|---|---|---|---|---|
-| BARdzo bardzo | https://www.bardzobardzo.pl/upcoming-events/ | venue (music club) | active | 2026-11-02 | user's favourite; 21 events, no prices/descriptions on listing |
-| Teatr Studio (repertuar) | https://teatrstudio.pl/repertuar | venue (theatre) | active | 2026-11-02 | Bar Studio is inside it; Dec view: /pl/repertuar/?month=12-2026; prices only on event pages |
+| BARdzo bardzo | https://www.bardzobardzo.pl/upcoming-events/ | venue (music club) | active | 2026-11-06 | user's favourite; 21 events, no prices/descriptions on listing |
+| Teatr Studio (repertuar) | https://teatrstudio.pl/repertuar | venue (theatre) | active | 2026-11-06 | Bar Studio is inside it; Dec view: /pl/repertuar/?month=12-2026; prices only on event pages |
 | Bar Studio | https://barstudio.pl/ | venue (bar) | no-events | 2026-11-02 | no program on site; use Teatr Studio instead; Facebook: facebook.com/barstudio.warszawa |
-| Teatr Wielki – Opera Narodowa | https://teatrwielki.pl/kalendarium/ | venue | active | 2026-11-02 | month view: /kalendarium/data/2026/12/ ; no prices on list |
-| Nowa Miodowa (ZPSM Nr 1 concert hall, Rakowiecka 21) | https://nowamiodowa.pl/pl/kalendarz | venue (classical/organ/chamber) | active | 2026-11-02 | user-added; 16 events ledgered (Nov 2026–Mar 2027; Apr 2027 has 2 more unread); server-rendered, titles+dates+times only (19:00), no prices/genre on list, details on /pl/wydarzenie/<slug>; one month per view: /pl/kalendarz/2026?month=grudzien (slugs: styczen…grudzien); 7 events in Nov (Paderewski Festival, organ concerts, Eufonie series, Wieniawski laureate recital) |
-| Kultura Warszawa (city) | https://kultura.um.warszawa.pl/kalendarz | official | partial | 2026-11-02 | 95 results/12 pages, only pages 1-3 read; unsorted |
-| Uniwersytet Warszawski calendar | https://www.uw.edu.pl/events/event/on/2026/11/ | academia | active | 2026-11-02 | no times/venues on list; home widget only; read monthly page next time |
-| Jasna 10 / Krytyka Polityczna Warsaw | https://warszawa.krytykapolityczna.pl/kalendarz/ | left/culture | active | 2026-11-02 | 0 events in Nov 2026 |
-| IR2 – Instytut Reportażu | https://ir2.info/events/ | talks/books | active | 2026-11-02 | user-suggested; calendar Sep 2026–Mar 2027; mostly at Faktyczny Dom Kultury, Gałczyńskiego 12; book launches, reportage workshops; no prices on list |
-| CSW Zamek Ujazdowski | https://u-jazdowski.pl/wydarzenia | art/cinema/talks | active | 2026-11-02 | user-suggested; weekly calendar via ?ut=<unix ts> param; only weeks to 15 Nov read; film, concerts, discussions, exhibitions |
+| Teatr Wielki – Opera Narodowa | https://teatrwielki.pl/kalendarium/ | venue | active | 2026-11-06 | month view: /kalendarium/data/2026/12/ ; no prices on list |
+| Nowa Miodowa (ZPSM Nr 1 concert hall, Rakowiecka 21) | https://nowamiodowa.pl/pl/kalendarz | venue (classical/organ/chamber) | active | 2026-11-06 | user-added; 16 events ledgered (Nov 2026–Mar 2027; Apr 2027 has 2 more unread); server-rendered, titles+dates+times only (19:00), no prices/genre on list, details on /pl/wydarzenie/<slug>; one month per view: /pl/kalendarz/2026?month=grudzien (slugs: styczen…grudzien); 7 events in Nov (Paderewski Festival, organ concerts, Eufonie series, Wieniawski laureate recital) |
+| Smolna 38 (club, Smolna 38) | https://smolna38.org/events/upcoming | venue (club nights, techno/electronic) | active | 2026-11-06 | user-added 2026-11-06; 8 events 6–27 Nov, all 22:00, Basement/Patio/Jungle rooms; no prices on list; years inferred |
+| Kultura Warszawa (city) | https://kultura.um.warszawa.pl/kalendarz | official | active | 2026-11-06 | 90 results all read via ?delta=75 (start=1,2); good cross-venue sweep incl. Nowy Teatr, Big Book Cafe, UCK Alternatywy, theatre premieres |
+| Uniwersytet Warszawski calendar | https://www.uw.edu.pl/events/event/on/2026/11/ | academia | active | 2026-11-06 | no times/venues on list; home widget only; read monthly page next time |
+| Jasna 10 / Krytyka Polityczna Warsaw | https://warszawa.krytykapolityczna.pl/kalendarz/ | left/culture | active | 2026-11-06 | 0 events in Nov 2026 |
+| IR2 – Instytut Reportażu | https://ir2.info/events/ | talks/books | active | 2026-11-06 | user-suggested; calendar Sep 2026–Mar 2027; mostly at Faktyczny Dom Kultury, Gałczyńskiego 12; book launches, reportage workshops; no prices on list |
+| CSW Zamek Ujazdowski | https://u-jazdowski.pl/wydarzenia | art/cinema/talks | active | 2026-11-06 | user-suggested; weekly calendar via ?ut=<unix ts> param; only weeks to 15 Nov read; film, concerts, discussions, exhibitions |
 | Festiwal Myśli Abstrakcyjnej (FMA) | https://www.fma.waw.pl/ | festival (class/left theory) | watch | 2026-11-02 | user-suggested; 11th ed. was 21-25 Oct 2026 at Komuna; check yearly ~Oct + summer "kolonie" (/kolonie); Instagram: festiwalmysliabstrakcyjnej; organiser Dziki Bez (halo@dzikibez.pl) |
-| Dom Spotkań z Historią (DSH) | https://dsh.waw.pl/pl/wydarzenia | history/talks/film | active | 2026-11-02 | best left-adjacent fetchable source; clean dated list; shows one month at a time (re-check early Dec) |
-| Muzeum Warszawy (+ Muzeum Woli, Izba Pamięci) | https://muzeumwarszawy.pl/wydarzenia/ | museum | active | 2026-11-02 | one month at a time; "Debaty o współczesnym świecie" series |
-| Fundacja Batorego | https://www.batory.org.pl/wydarzenia/ | NGO | low-value | 2026-11-02 | mostly online/non-Warsaw NGO training |
-| Ośrodek KARTA | https://karta.org.pl/aktualnosci | history/NGO | active | 2026-11-02 | no Warsaw events in window |
-| Krytyka Polityczna events | https://krytykapolityczna.pl/o-nas/spotkajmy-sie/ | left | active | 2026-11-02 | nationwide list, filter to Warsaw; loads dynamically; Prześniona café: krytykapolityczna.pl/przesniona/ |
+| Dom Spotkań z Historią (DSH) | https://dsh.waw.pl/pl/wydarzenia | history/talks/film | active | 2026-11-06 | best left-adjacent fetchable source; clean dated list; shows one month at a time (re-check early Dec) |
+| Muzeum Warszawy (+ Muzeum Woli, Izba Pamięci) | https://muzeumwarszawy.pl/wydarzenia/ | museum | active | 2026-11-06 | one month at a time; "Debaty o współczesnym świecie" series |
+| Fundacja Batorego | https://www.batory.org.pl/wydarzenia/ | NGO | low-value | 2026-11-06 | mostly online/non-Warsaw NGO training |
+| Ośrodek KARTA | https://karta.org.pl/aktualnosci | history/NGO | active | 2026-11-06 | no Warsaw events in window |
+| Krytyka Polityczna events | https://krytykapolityczna.pl/o-nas/spotkajmy-sie/ | left | active | 2026-11-06 | nationwide list, filter to Warsaw; loads dynamically; Prześniona café: krytykapolityczna.pl/przesniona/ |
 | Razem | https://partiarazem.pl | left party | blocked | 2026-11-02 | no events list; weekly newsletter + social only |
 | Rosa Luxemburg Foundation PL | https://www.rosalux.pl/ | left | low-value | 2026-11-02 | no Warsaw events lately |
 | Left/eco movement groups (Zieloni, Czerwone Kropki, Obóz dla Puszczy, XR, Fed. Anarchistyczna, Wolna Biblioteka, Pożyteczna, Syrena, Cafe Kryzys) | – | movements | blocked | 2026-11-02 | Facebook/Instagram only or site fetch failed (pozyteczna.pl 403, zieloni.pl cert error) |
-| Muzeum Narodowe w Warszawie | https://mnw.pl/wydarzenia | museum | active | 2026-11-02 | www.mnw.art.pl redirects to mnw.pl; list unsorted, ?page=N, only pp.1-8 read, Dec/Jan unverified; no prices (ticket status only); exhibitions /wystawy; mostly workshops/tours, few talks (Eksperckim okiem) |
-| Muzeum Sztuki Nowoczesnej | https://artmuseum.pl/pl/program | museum (contemporary art) | active | 2026-11-02 | /pl/wydarzenia is cinema only; /pl/program shows rolling ~6 days (3-8 Nov seen), re-check weekly; /pl/wystawy-aktualne for exhibitions; banner said closed, verify; talks/debates fit well |
+| Muzeum Narodowe w Warszawie | https://mnw.pl/wydarzenia | museum | active | 2026-11-06 | www.mnw.art.pl redirects to mnw.pl; list unsorted, ?page=N, only pp.1-8 read, Dec/Jan unverified; no prices (ticket status only); exhibitions /wystawy; mostly workshops/tours, few talks (Eksperckim okiem) |
+| Muzeum Sztuki Nowoczesnej | https://artmuseum.pl/pl/program | museum (contemporary art) | active | 2026-11-06 | /pl/wydarzenia is cinema only; /pl/program shows rolling ~6 days (3-8 Nov seen), re-check weekly; /pl/wystawy-aktualne for exhibitions; banner said closed, verify; talks/debates fit well |
 | Radykalny Relaks (Facebook) | https://www.facebook.com/profile.php?id=100078104326766&sk=events | venue (sauna/massage salon, Wawer) | active (Chrome) | 2026-11-02 | user-added; 1 upcoming event only; Rubinowa 5, Wawer; IG radykalny_relaks |
-| Komuna Warszawa | https://komuna.warszawa.pl/ | venue (theatre/discussions) | to-add | never | hosts FMA; user paused theatre but it hosts talks |
+| Komuna Warszawa | https://komuna.warszawa.pl/ | venue (theatre/discussions) | to-add | 2026-11-06 | hosts FMA; user paused theatre but it hosts talks |
 | Greenpeace Polska | https://www.greenpeace.org/poland/ | ecology | low-value | 2026-11-02 | no events section, news only |
 | Kawiarnia Południk Zero (Facebook) | https://www.facebook.com/kawiarniaPoludnikZero/events | venue | active (Chrome) | 2026-11-02 | works via Claude in Chrome (get_page_text); user logged in; one page load, no checkpoint. Cards lack links/prices. Only read after user OKs each Facebook source |
 | GoOut Warszawa | https://goout.net/pl/warszawa/ | aggregator | blocked | 2026-11-02 | JS-rendered; fetch returns shell only |
 | POLIN | https://polin.pl/events/program | venue | blocked | 2026-11-02 | HTTP 403 for fetcher |
-| Bilety24 | https://www.bilety24.pl/ | ticketing | active | never | seed, unverified |
+| Bilety24 | https://www.bilety24.pl/ | ticketing | partial | 2026-11-06 | homepage only; surfaced Eufonie concerts with prices; no jazz/talks category found |
 | eBilet | https://www.ebilet.pl/ | ticketing | active | never | seed, unverified |
-| Meetup Warsaw | https://www.meetup.com/find/?location=pl--Warsaw | community | active | never | seed, unverified |
-| Warszawa w Pigułce | https://warszawawpigulce.pl/ | news/events | active | never | seed, unverified |
+| Meetup Warsaw | https://www.meetup.com/find/?location=pl--Warsaw | community | low-value | 2026-11-06 | mostly language/networking meetups; venues not shown |
+| Warszawa w Pigułce | https://warszawawpigulce.pl/ | news/events | low-value | 2026-11-06 | news feed only, no events list reachable |
+
+## Run notes 2026-11-06
+- Partial reads to finish next time: CSW (only weeks to 29 Nov, weekly pages give no per-day dates), MSN (6–12 Nov only), MNW (pages 1–2 of 742), Karta (page 1 of 82), Batory (page 1 of 23), Teatr Studio/Teatr Wielki/Nowa Miodowa/Komuna (Jan 2027 not fetched), Kino Elektronik (only 6–7 Nov), Kino Iluzjon regular screenings summarised not listed.
+- Hybrydy page is a combined calendar for Hybrydy + Klub Proxima + Palladium (to Oct 2027).
 
 ## Venue sites tested 2026-11-02 (full pass)
 | Venue | URL | Status | Notes |
